@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**App:** Scrabble words (`imas.scrabble.words`)  
+**App:** Words Challenge (`imas.scrabble.words`)  
 **Developer:** IMAS  
 **Effective date:** July 19, 2026  
 **Last updated:** July 19, 2026
 
-> **Summary:** Scrabble words is a word game. We store game scores on your device. If you choose to publish a score, your display name and score are shared on a public worldwide leaderboard. The app shows ads via Google AdMob. We do not sell your personal information.
+> **Summary:** Words Challenge is a word game. We store game scores on your device. If you choose to publish a score, your display name and score are shared on a public worldwide leaderboard. The app shows ads via Google AdMob. We do not sell your personal information.
 
 This Privacy Policy explains how IMAS (“we”, “us”, or “our”) handles information in connection with the mobile application **Scrabble words** (the “App”). By using the App, you agree to this policy.
 
