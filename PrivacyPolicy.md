@@ -5,135 +5,171 @@
 **Effective date:** July 19, 2026
 **Last updated:** July 19, 2026
 
-> **Summary:** Words Challenge is a word game. Game settings and scores are stored locally on your device. We do **not collect or transmit personal user information to IMAS**. If you voluntarily publish a score to the worldwide leaderboard, the display name and score you provide are transmitted to our cloud database and made publicly visible. The App uses Google AdMob to display advertisements, and Google may process technical and advertising-related data according to its own privacy policies. We do not sell personal information.
+> **Summary:** Words Challenge is a word game. The App uses **Google AdMob** to display advertisements and **Google Firebase Realtime Database** to provide an optional worldwide leaderboard. We do not require authentication or user accounts. We do not collect or transmit personal user information for our own purposes. If you choose to publish your score, the username/display name and score you provide are transmitted to Firebase and publicly displayed in the worldwide leaderboard **only after you approve the publication**.
 
 This Privacy Policy explains how IMAS (“we”, “us”, or “our”) handles information in connection with the mobile application **Words Challenge** (the “App”).
 
-## 1. Information we collect
+## 1. No account or authentication required
 
-### Information handled directly by IMAS
+The App does **not require authentication, registration, or the creation of a user account**.
 
-IMAS does **not collect or transmit personal user information** through the App for its own purposes. You do not need to create an account, provide an email address, provide your real name, or provide other personal information to use the App.
+You can use the App and play the game without providing personal information to IMAS.
 
-The following information is stored **locally on your device** and is not transmitted to IMAS:
+We do not use a login system, email authentication, phone-number authentication, or social-media authentication.
 
-* Local high scores
+## 2. Information handled by the App
+
+### Local game data
+
+The App may store the following information locally on your device:
+
+* Game scores and high scores
 * Language preference
 * Onboarding status
-* A display name you may enter for use within the App
+* A username/display name that you enter
+
+This local game data is stored on your device and is not transmitted to IMAS for user identification.
 
 ### Optional worldwide leaderboard
 
-If you voluntarily choose to publish a score to the worldwide leaderboard, the following information is transmitted to our cloud database:
+The App provides an optional worldwide leaderboard.
 
-* The display name you entered
-* Your game score
+If you choose to publish your score, the App will ask for your approval before transmitting the information. **Only after you approve publication**, the following information is sent to **Google Firebase Realtime Database**:
+
+* The username/display name you entered
+* Your score
 * The selected game language
 
-This information is stored using **Google Firebase Realtime Database** and is publicly visible to other users of the App. You should therefore avoid entering personal information, such as your full legal name, email address, telephone number, or home address, as your display name.
+The published username and score are then made publicly visible to other users of the App through the worldwide leaderboard.
 
-### Advertising and third-party services
+There is **no authentication associated with the leaderboard**. The username is simply a display name chosen by the user and is not linked to a user account.
 
-The App uses **Google AdMob** to display advertisements. Google may collect and process certain technical and advertising-related information, such as an advertising ID, IP address, device information, operating system, app version, and information related to advertising interactions.
+Because the username is publicly displayed, you should not enter personal information that you do not want to make public, such as your full legal name, email address, telephone number, home address, or other sensitive information.
 
-This information is processed by Google in accordance with Google's own privacy policies. **IMAS does not receive or use this information to personally identify you.**
+If you do not approve publication, your username and score are **not submitted to the worldwide leaderboard**.
 
-### Language and network information
+## 3. Advertising — Google AdMob
 
-The App may access your device locale, network information, or SIM country code solely to suggest an appropriate default game language.
+The App displays advertisements using **Google AdMob**.
 
-The App may also check network connectivity to determine whether online features such as advertisements and the worldwide leaderboard are available.
+AdMob may collect and process certain technical and advertising-related information, which may include information such as:
 
-We do not intentionally collect precise location data, contacts, photos, microphone recordings, payment card information, or other sensitive personal information.
+* Advertising identifier
+* IP address
+* Device type and operating system
+* App version
+* Advertising interactions
+* Other information necessary to provide and measure advertisements
 
-## 2. How information is used
+This information is processed by Google according to Google's applicable privacy policies and your device or legal settings.
 
-Information handled by the App is used to:
+IMAS does not use AdMob data to identify you personally.
 
-* Provide the core gameplay features.
-* Save game progress, scores, and settings locally on your device.
-* Provide the optional worldwide leaderboard when you choose to publish a score.
-* Display advertisements through Google AdMob.
-* Determine whether online services are available.
-* Improve the stability and user experience of the App.
+For more information:
 
-IMAS does **not use personal information for profiling, selling, or targeted marketing**.
+[Google Privacy Policy](https://policies.google.com/privacy?utm_source=chatgpt.com)
 
-## 3. Advertising (Google AdMob)
+[How Google uses information from apps and websites](https://policies.google.com/technologies/partner-sites?utm_source=chatgpt.com)
 
-The App uses **Google AdMob** to display banner, interstitial, and rewarded advertisements.
+## 4. Firebase Realtime Database
 
-Google may collect and process device and advertising-related information to serve, personalize, measure, and improve advertising, subject to applicable law and your device settings.
+The App uses **Google Firebase Realtime Database** to store and display scores that users voluntarily publish to the worldwide leaderboard.
 
-For more information, see:
+Firebase receives the username/display name and score **only when the user approves publication of their score**.
 
-* [Google Privacy Policy](https://policies.google.com/privacy?utm_source=chatgpt.com)
-* [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites?utm_source=chatgpt.com)
-* You can manage or reset your advertising ID and advertising preferences through your Android device settings.
+There is no authentication or personal user account associated with this leaderboard data.
 
-## 4. Cloud services (Firebase)
+Published usernames and scores are publicly visible to other users of the App.
 
-If you voluntarily publish a score to the worldwide leaderboard, your display name and score are stored using **Google Firebase Realtime Database**.
-
-Published leaderboard information is visible to other users of the App.
-
-For more information about Firebase's handling of data, see:
+For more information about Firebase privacy and data handling:
 
 [Firebase Privacy and Security](https://firebase.google.com/support/privacy?utm_source=chatgpt.com)
 
-## 5. Sharing of information
+## 5. Information we do not collect
 
-IMAS does not sell, rent, or otherwise provide your personal information to third parties for their own marketing purposes.
+IMAS does not intentionally collect or transmit personal user information for its own purposes.
 
-Information may be transmitted or made available in the following limited circumstances:
+The App does not require or request:
 
-* **Worldwide leaderboard:** Your chosen display name and score are transmitted to Firebase only when you voluntarily choose to publish your score. This information is publicly visible.
-* **Google AdMob:** Google may independently collect and process technical and advertising-related information to provide advertising services.
-* **Legal requirements:** Information may be disclosed if required by applicable law or when reasonably necessary to protect rights, safety, or security.
+* An email address
+* A telephone number
+* A password
+* A user account
+* Authentication credentials
+* Contacts
+* Photos or videos
+* Microphone recordings
+* Payment card information
+* Precise location information
 
-Except for the optional leaderboard information and data processed by third-party services such as Google AdMob, **IMAS does not collect or transmit your personal information.**
+The only user-provided information intentionally transmitted by the App to our Firebase database is the **username/display name and score that you voluntarily approve for publication on the worldwide leaderboard**.
 
-## 6. Data retention
+Third-party services such as Google AdMob may independently process technical and advertising-related information as described in this Privacy Policy.
+
+## 6. How information is used
+
+Information is used to:
+
+* Provide the game's core functionality.
+* Store game settings and scores locally on your device.
+* Provide the optional worldwide leaderboard.
+* Display your voluntarily submitted username and score publicly when you approve publication.
+* Display advertisements through Google AdMob.
+* Determine whether online services are available.
+* Maintain and improve the stability and functionality of the App.
+
+We do not sell personal information.
+
+## 7. Sharing of information
+
+We do not sell, rent, or otherwise provide your personal information to third parties for their own marketing purposes.
+
+Information may be transmitted or made available in the following circumstances:
+
+* **Worldwide leaderboard:** Your chosen username/display name and score are transmitted to Firebase only after you approve publication and are then publicly visible.
+* **Google AdMob:** Google may independently collect and process technical and advertising-related information to provide advertisements.
+* **Legal requirements:** Information may be disclosed when required by applicable law or when reasonably necessary to protect rights, safety, or security.
+
+## 8. Data retention
 
 * Data stored locally remains on your device until you clear the App's data or uninstall the App.
-* Published leaderboard scores may remain in the leaderboard database until they are removed or the leaderboard is reset.
-* Information processed by Google AdMob and Firebase is retained according to Google's applicable policies and settings.
-
-## 7. Children's privacy
-
-The App is a general-audience word game and is **not directed to children under 13**, or the equivalent minimum age in your country.
-
-IMAS does not knowingly collect personal information from children. Because the App does not require an account or personal information, children can use the core game without providing personal information to IMAS.
-
-If you believe that a child has voluntarily entered personal information into the leaderboard display-name field, please contact us so that we can take appropriate steps.
-
-## 8. Security
-
-We take reasonable measures to protect information handled by the App and our service providers. However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+* Published usernames and scores may remain in the Firebase leaderboard database until they are removed or the leaderboard is reset.
+* Data processed by Google AdMob is retained according to Google's applicable policies.
 
 ## 9. Your choices
 
 You can:
 
-* Use the App without publishing scores to the worldwide leaderboard.
-* Choose any display name when publishing a score, provided it does not contain personal information.
+* Play the game without publishing your score.
+* Decline the publication of your username and score.
+* Choose the username/display name that will be publicly displayed.
 * Clear locally stored App data through Android settings or by uninstalling the App.
 * Manage advertising personalization through your Android or Google advertising settings.
-* Contact us to request removal of a published display name and score when reasonably possible.
+* Contact us to request removal of a username and score that you have previously published, where reasonably possible.
 
-## 10. International users
+## 10. Children's privacy
+
+The App is a general-audience word game and is not specifically directed to children under 13, or the equivalent minimum age in your country.
+
+The App does not require an account or authentication. Users should not enter personal information into the optional username field because published usernames are publicly visible.
+
+If you believe that a child has submitted personal information through the leaderboard, please contact us so that we can take appropriate steps.
+
+## 11. Security
+
+We take reasonable measures to protect information handled by the App and our service providers. However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+Because the worldwide leaderboard is public, you should only choose a username that you are comfortable sharing publicly.
+
+## 12. International users
 
 The App may be used internationally. Information voluntarily submitted to the worldwide leaderboard and information processed by third-party services such as Google may be stored or processed in countries other than your own.
 
-Such countries may have data-protection laws that differ from those in your country.
-
-## 11. Changes to this Privacy Policy
+## 13. Changes to this Privacy Policy
 
 We may update this Privacy Policy from time to time. The **“Last updated”** date at the top of this policy will indicate when changes were made.
 
-Your continued use of the App after an updated Privacy Policy is published constitutes acceptance of the revised policy, to the extent permitted by applicable law.
-
-## 12. Contact us
+## 14. Contact us
 
 If you have questions about this Privacy Policy or would like to request removal of information voluntarily published to the worldwide leaderboard, please contact:
 
